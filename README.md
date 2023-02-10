@@ -5,7 +5,7 @@
 
 **Instructions:** Use the word bank to match the vocabulary words with the appropriate number in the above code segment. 
 
-1.heration
+1.iteration
 2.casting
 3.boolean operator
 4.selection
